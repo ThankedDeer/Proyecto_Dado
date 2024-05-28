@@ -1,7 +1,6 @@
 <resources>
-    <string name="app_name">IDGS9A11MANoActivity211068</string>
-    <string name="tv_text">Eduardo Salinas</string>
-    <string name="btn_reset_text">resert</string>
-    <string name="btn_inicio_text">inicio</string>
-    <string name="btn_dec_text">dec</string>
+    <string name="app_name">IDGS9A Proyecto DADO 211068</string>
+    <string name="name_text">Eduardo Salinas</string>
+    <string name="change_image">Tira el dado</string>
+    <string name="todo">TODO</string>
 </resources>
